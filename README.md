@@ -1,2 +1,2 @@
-Git namu darbas
+Git homework
 Change 1
